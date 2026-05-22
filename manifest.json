@@ -3,6 +3,11 @@
   "name": "YouTube Shorts Blocker",
   "version": "1.0",
   "description": "Hides YouTube Shorts so you can stay focused.",
+  "icons": {
+    "16": "icons/cattycat.jpg",
+    "48": "icons/cattycat.jpg",
+    "128": "icons/cattycat.jpg"
+  },
   "permissions": [],
   "content_scripts": [
     {
