@@ -20,7 +20,7 @@ A Python helper script is included that automatically detects your browser and o
 2. Open a terminal in the folder
 3. Run:
    ```bash
-   python setup.py
+   python install.py
    ```
 4. Your browser will open to the extensions page automatically
 5. Follow the on-screen instructions printed in the terminal
