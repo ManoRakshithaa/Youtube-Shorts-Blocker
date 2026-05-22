@@ -1,4 +1,4 @@
-# YouTube Shorts Blocker 
+# <img src="icons/cattycat.png" width="48" height="48" valign="middle"> YouTube Shorts Blocker
 
 A free browser extension that hides YouTube Shorts from your feed and redirects Shorts URLs to the normal video player. This disables the addictive scrolling mechanism and lets you watch videos in the standard interface (avoiding doom scrolling).
 
