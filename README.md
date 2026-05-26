@@ -9,7 +9,7 @@ A free browser extension that hides YouTube Shorts from your feed and redirects 
 
 ---
 
-## Option A — Automatic setup (recommended for beginners)
+## Option A: Automatic setup (recommended for beginners)
 
 A Python helper script is included that automatically detects your browser and opens the right extensions page for you.
 
@@ -27,7 +27,7 @@ A Python helper script is included that automatically detects your browser and o
 
 ---
 
-## Option B — Manual setup
+## Option B: Manual setup
 
 1. Download or clone this repository onto your computer
 2. Open your browser's extensions page:
@@ -66,7 +66,7 @@ Yes. This extension:
 |------|-------------|
 | `manifest.json` | Tells the browser the extension's name, version, and which pages to run on |
 | `content.js` | The script that hides Shorts using CSS and redirects Shorts URLs |
-| `setup.py` | Python helper that detects your OS and browser, then opens the extensions page |
+| `install.py` | Python helper that detects your OS and browser, then opens the extensions page |
 | `README.md` | This file |
 
 ---
